@@ -385,6 +385,9 @@ footer{
 .footer-brand img{height:22px;}
 .footer-links{display:flex;flex-wrap:wrap;gap:12px 26px;font-size:13px;color:var(--muted);}
 .footer-links a:hover{color:var(--ink);}
+.footer-member{display:inline-flex;}
+.footer-member img{height:50px;width:auto;}
+.footer-member:hover{opacity:.85;}
 .footer-copy{font-size:12px;color:var(--muted);width:100%;margin-top:8px;}
 
 /* ===== 2027 update — additions ===== */
