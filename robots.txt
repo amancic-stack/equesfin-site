@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://equesfin.com/sitemap.xml
